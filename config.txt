@@ -1,0 +1,21 @@
+Follow these step:-
+1.Paste project in your localserver 
+2. change  base_url  if you want to change in  application/config/config.php
+2. config  your  database in  application/config/database.php
+
+
+
+
+
+Credential
+
+
+Admin 
+ username-  admin
+ password-  admin
+
+
+Owner 
+
+username - owner
+password - owner
